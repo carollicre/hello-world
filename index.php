@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	session_start();
 	$user = $_SESSION['user'];
 ?>
@@ -147,7 +147,7 @@
         	<div class="collapse navbar-collapse" id="mynavbar">    
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.php">Inicio</a></li>
-                    <li><a href="inscricoes.php">Incrições</a></li>
+                    <li><a href="inscricoes.php">Inscrições</a></li>
                     <li><a href="regulamento.php">Regulamento</a></li>
                     <li><a href="contato.php">Contato</a></li>
                     <?php
