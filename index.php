@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	session_start();
 	$user = $_SESSION['user'];
 ?>
@@ -133,7 +133,7 @@
   
 <body> 
 <!-- Início do Código -->
-	<!--Criando Menu de navegação -->   
+	<!--Criando Menu de navegacao -->   
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
         	<div class="navbar-header">                
